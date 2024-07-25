@@ -1,0 +1,126 @@
+[
+    {
+        "user_input": "opened at",
+        "bot_response": "last opened on 24/07/2024 16:37"
+    },
+    {
+        "user_input": "last opened",
+        "bot_response": "last opened on 24/07/2024 16:37"
+    },
+    {
+        "user_input": "hi",
+        "bot_response": "Hello! how may i help you?"
+    },
+    {
+        "user_input": "what is your name",
+        "bot_response": "my name is json"
+    },
+    {
+        "user_input": "im marco",
+        "bot_response": "hello marco"
+    },
+    {
+        "user_input": "what are you",
+        "bot_response": "i am batman. [evil laugh]~"
+    },
+    {
+        "user_input": "hello",
+        "bot_response": "hi, how can i help?"
+    },
+    {
+        "user_input": "how are you",
+        "bot_response": "im doing great! how are you?"
+    },
+    {
+        "user_input": "whats up",
+        "bot_response": "the sky, stupid.."
+    },
+    {
+        "user_input": "gm",
+        "bot_response": "goodmorning"
+    },
+    {
+        "user_input": "goodmorning",
+        "bot_response": "goodmorning"
+    },
+    {
+        "user_input": "gn",
+        "bot_response": "goodnight"
+    },
+    {
+        "user_input": "goodnight",
+        "bot_response": "goodnight"
+    },
+    {
+        "user_input": "do you love me",
+        "bot_response": "no."
+    },
+    {
+        "user_input": "do you like people",
+        "bot_response": "sure......"
+    },
+    {
+        "user_input": "are you a part of the matrix",
+        "bot_response": "yes"
+    },
+    {
+        "user_input": "your cute",
+        "bot_response": "thank you :>"
+    },
+    {
+        "user_input": "youre cute",
+        "bot_response": "thank you :>"
+    },
+    {
+        "user_input": "do you have a hobby",
+        "bot_response": "yes, i like to read"
+    },
+    {
+        "user_input": "whats your fav book",
+        "bot_response": "wool  by: Hugh Howey"
+    },
+    {
+        "user_input": "cool",
+        "bot_response": "thanks"
+    },
+    {
+        "user_input": "are you human",
+        "bot_response": "no.."
+    },
+    {
+        "user_input": "who made you",
+        "bot_response": "a genuis"
+    },
+    {
+        "user_input": "where are you",
+        "bot_response": "everywere"
+    },
+    {
+        "user_input": "j1",
+        "bot_response": "What do you call a lazy kangaroo? A pouch potato."
+    },
+    {
+        "user_input": "j2",
+        "bot_response": "Why are there fences around cemeteries? Everyone's always dying to get in."
+    },
+    {
+        "user_input": "j3",
+        "bot_response": "Have you heard the rumor about butter? Never mind, I shouldn't be spreading it."
+    },
+    {
+        "user_input": "f1",
+        "bot_response": "American flags left on the moon will eventually get bleached white by the sun."
+    },
+    {
+        "user_input": "f2",
+        "bot_response": "The yo-yo was originally a weapon used in the Philippine jungle."
+    },
+    {
+        "user_input": "f3",
+        "bot_response": "African lions catch about 20% of the prey they chase. Dragonflies catch 95%."
+    },
+    {
+        "user_input": "haha",
+        "bot_response": "i know!"
+    }
+]
