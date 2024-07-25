@@ -3,13 +3,10 @@ import os
 import datetime
 import random
 
-###
-"""notes: 
--test rand inputs
-
+"""
+notes: 
 
 """
-###
 
 #File path for mem
 file = r'C:\Users\marco\.vscode\python\projects\columbia\assingments\json\project\history.json'
