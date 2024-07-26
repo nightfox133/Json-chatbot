@@ -1,19 +1,11 @@
 [
     {
         "user_input": "opened at",
-        "bot_response": "last opened on 24/07/2024 16:37"
+        "bot_response": "last opened on 25/07/2024 20:04"
     },
     {
         "user_input": "last opened",
-        "bot_response": "last opened on 24/07/2024 16:37"
-    },
-    {
-        "user_input": "hi",
-        "bot_response": "Hello! how may i help you?"
-    },
-    {
-        "user_input": "what is your name",
-        "bot_response": "my name is json"
+        "bot_response": "last opened on 25/07/2024 20:01"
     },
     {
         "user_input": "im marco",
@@ -26,6 +18,10 @@
     {
         "user_input": "hello",
         "bot_response": "hi, how can i help?"
+    },
+    {
+        "user_input": "hi",
+        "bot_response": "hello, how can i help?"
     },
     {
         "user_input": "how are you",
@@ -122,5 +118,33 @@
     {
         "user_input": "haha",
         "bot_response": "i know!"
+    },
+    {
+        "user_input": "nice",
+        "bot_response": "yeah"
+    },
+    {
+        "user_input": "who are you",
+        "bot_response": "batman! [evil laugh]~"
+    },
+    {
+        "user_input": "im good",
+        "bot_response": "thats great!"
+    },
+    {
+        "user_input": "what do you like to be called?",
+        "bot_response": "yes"
+    },
+    {
+        "user_input": "what do you want to be called",
+        "bot_response": "json"
+    },
+    {
+        "user_input": "what's your gender?",
+        "bot_response": "As a chatbot, I don't identify as any gender.  What a human concept."
+    },
+    {
+        "user_input": "who created you?",
+        "bot_response": "Obviously, god...a coding god."
     }
 ]
