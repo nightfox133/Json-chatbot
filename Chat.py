@@ -3,10 +3,11 @@ import os
 import datetime
 import random
 
-"""
-notes: 
+###
+"""notes: 
 
 """
+###
 
 #File path for mem
 file = r'C:\Users\marco\.vscode\python\projects\columbia\assingments\json\project\history.json'
@@ -56,7 +57,7 @@ def respond(inp, conversation):
             now = datetime.datetime.now()
             response = f"The current date is {now.strftime('%d/%m/%Y')}."
         else:
-            response = input('Chatbot: I am confused. Do you want to explain? ')
+            response = input('Chatbot: this is a new question. how should i respond? ')
             if not response == '':
                 #save to json
                 conversation.append({'user_input': inp, 'bot_response': response}) 
